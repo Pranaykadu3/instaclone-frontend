@@ -1,0 +1,43 @@
+.logoimg {
+    width: 75px;
+    height: 75px;
+
+}
+
+.navbar {
+    display: flex;
+    padding-top: 20px;
+
+}
+
+hr {
+    color: green;
+    border: 1px solid green;
+
+}
+
+.camera {
+    margin-left: 900px;
+    width: 65px;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.logoimg {
+    margin-left: 100px;
+    margin-bottom: 16px;
+
+
+}
+
+h1 {
+    font-size: 3em;
+    top: -5px;
+    /* bottom: 745px; */
+    font-size: 3em;
+    position: absolute;
+    left: 100px;
+    padding-bottom: 26px;
+    color: green;
+
+}

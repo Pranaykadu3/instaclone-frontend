@@ -1,0 +1,81 @@
+.post{
+  width: 420px;
+  height: 360px;
+  border: 2px solid black;
+  margin: auto;
+  margin-top: 40px;
+}
+/* .userdetail{
+    background-color: white;
+    height: 400px;
+} */
+.name{
+    display: block;
+    padding-left: 20px;
+  
+}
+.name{
+    margin-top: 10px;
+}
+.dotes{
+   position: relative;
+   left: 85%;
+   bottom: 45px;
+   font-size: 1.5em;
+}
+.city{
+    
+    margin-left: 18px;
+}
+.likecount{
+   /* display: block; */
+   color: red;
+   font-size: .8rem;
+   position: relative;
+   /* margin-left: 6px; */
+   top: 15px;
+   right: 50px;
+}
+.date{
+    float: right ;
+    margin-right: 6px;
+}
+.likeicon ,.shareicon{
+    margin: 0px 6px;
+}
+p{
+   position: relative;
+   top:10px;
+   bottom: 16px;
+   left: 6px;
+   /* max-width: 100%; */
+   /* background-color: white; */
+
+}
+
+
+/* #bg{
+    background-image: url("./images/bg2.jpg");
+    
+    width: 100%;
+    
+} */
+.post-header{
+    background-color: white;
+
+    height: 50px;
+    padding: 5px;
+    /* z-index: 20; */
+  }
+.postfooter{
+    background-color: white;
+    max-height: 100%;
+    padding-bottom: 16px;
+    padding-top: 6px;
+    margin-bottom: 16px;
+}
+/* .post-image > img{
+    position: relative;
+    top: 2px;
+    height: ;
+} */
